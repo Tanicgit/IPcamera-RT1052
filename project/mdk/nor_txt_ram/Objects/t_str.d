@@ -1,0 +1,10 @@
+.\nor_txt_ram\objects\t_str.o: ..\..\user\Tshell\t_str.c
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\nor_txt_ram\objects\t_str.o: ..\..\user\Tshell\t_str.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\nor_txt_ram\objects\t_str.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

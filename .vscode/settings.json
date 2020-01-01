@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "lwip_app.h": "c",
+        "t_shell.h": "c",
+        "string.h": "c",
+        "opt.h": "c"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [ 
+                "${workspaceFolder}/**",           
+                "C:/Keil_v5/ARM/ARMCC/include",
+                "${workspaceFolder}/libraries/CMSIS/Include",
+                "${workspaceFolder}/libraries/drivers",
+                "${workspaceFolder}/libraries/utilities",
+                "${workspaceFolder}/libraries/utilities/str",
+                "${workspaceFolder}/libraries/utilities/log",
+                "${workspaceFolder}/libraries/utilities/io",
+                "${workspaceFolder}/libraries/xip",
+                "${workspaceFolder}/user",
+                "${workspaceFolder}/user/bsp",
+                "${workspaceFolder}/user/app",
+                "${workspaceFolder}/rtos/amazon-freertos/lib/include",
+                "${workspaceFolder}/rtos/amazon-freertos/lib/FreeRTOS/portable/RVDS/ARM_CM4F",
+                "${workspaceFolder}/middleware/emwin/emWin_header",
+                "${workspaceFolder}/middleware/emwin/emWin_Config",
+                "${workspaceFolder}/rtos/amazon-freertos/lib/include/private",
+                "${workspaceFolder}/middleware/lwip/port",
+                "${workspaceFolder}/middleware/lwip/src",
+                "${workspaceFolder}/middleware/lwip/src/include",
+                "${workspaceFolder}/middleware/lwip/contrib/apps",
+                "${workspaceFolder}/user/Tshell",
+                "${workspaceFolder}/user/bsp/camera",
+                "${workspaceFolder}/middleware/LibJPEG/include",
+                "${workspaceFolder}/middleware/LibJPEG"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "CPU_MIMXRT1052DVL6B",
+                "XIP_EXTERNAL_FLASH=1",
+                " XIP_BOOT_HEADER_ENABLE =1",
+                "XIP_BOOT_HEADER_DCD_ENABLE =1",
+                "PRINTF_FLOAT_ENABLE=1",
+                " SCANF_FLOAT_ENABLE=1",
+                " PRINTF_ADVANCED_ENABLE=1",
+                " SCANF_ADVANCED_ENABLE=1",
+                " FSL_RTOS_FREE_RTOS",
+                "__STARTUP_INITIALIZE_NONCACHEDATA"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,12 @@
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\FreeRTOS\list.c
+.\nor_txt_ram\objects\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\FreeRTOS.h
+.\nor_txt_ram\objects\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\nor_txt_ram\objects\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\nor_txt_ram\objects\list.o: ..\..\user\app\FreeRTOSConfig.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\private\projdefs.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\private\portable.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\private\deprecated_definitions.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\FreeRTOS\portable\RVDS\ARM_CM4F\portmacro.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\private\mpu_wrappers.h
+.\nor_txt_ram\objects\list.o: ..\..\rtos\amazon-freertos\lib\include\private\list.h
