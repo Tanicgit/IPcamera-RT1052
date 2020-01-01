@@ -1,9 +1,0 @@
-.\nor_txt_ram\objects\1.o: ..\..\user\app\1.c
-.\nor_txt_ram\objects\1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\GUI.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\GUI_ConfDefaults.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_Config\GUIConf.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\GUI_Type.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\LCD.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\Global.h
-.\nor_txt_ram\objects\1.o: ..\..\middleware\emwin\emWin_header\GUI_Version.h
